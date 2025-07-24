@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **001eander/001eander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 你好！
+
+我是陶唐，大二学生，现就读于上海财经大学数据科学与大数据专业。
+
+我现在在研究GANs相关内容，尝试使用rust构建大型项目。
+
+更多信息请参阅我的[个人博客](https://001eander.github.io/)
