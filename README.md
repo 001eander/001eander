@@ -22,7 +22,4 @@ Here are some ideas to get you started:
 - GANs
 - Rust
 - 量化交易
-
----
-
-更多信息请参阅我的[个人博客](https://001eander.github.io/)。
+- 奇奇怪怪的想到什么做什么
