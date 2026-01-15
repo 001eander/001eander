@@ -17,9 +17,3 @@ Here are some ideas to get you started:
 
 我是陶唐，大二学生，现就读于上海财经大学数据科学与大数据专业。
 
-## 我现在在研究什么？
-
-- GANs
-- Rust
-- 量化交易
-- 奇奇怪怪的想到什么做什么
